@@ -180,7 +180,7 @@ export const projects = [
     
     ],
     category: "web app",
-    github: "",
+    github: "https://github.com/degalaram/Prodigy-landing",
     webapp: "https://landinggg.ccbp.tech/",
   },
   {
@@ -198,7 +198,7 @@ export const projects = [
      
     ],
     category: "web app",
-    github: "",
+    github: "https://github.com/degalaram/Portfolio",
     webapp: "",
   },
   {
@@ -212,7 +212,7 @@ export const projects = [
       "Javascript",
     ],
     category: "web app",
-    github: "",
+    github: "https://github.com/degalaram/Prodigy_todo_list",
     webapp: "https://todoofmine.ccbp.tech/",
   },
 ];
