@@ -11,7 +11,7 @@ export const Bio = {
   gmail: "ramdegala9@gmail.com",
 
   resume:
-    "https://drive.google.com/file/d/1QPN7ns0XUSLrKY_0d8Q53kYFafnwXTIR/view?usp=sharing",
+    "",
 
   linkedin: "https://www.linkedin.com/in/ramdegala/",
 
@@ -180,7 +180,7 @@ export const projects = [
     
     ],
     category: "web app",
-    github: "https://github.com/anshita005/Job-Portal",
+    github: "",
     webapp: "https://landinggg.ccbp.tech/",
   },
   {
@@ -198,7 +198,7 @@ export const projects = [
      
     ],
     category: "web app",
-    github: "https://github.com/anshita005/My-Portfolio",
+    github: "",
     webapp: "",
   },
   {
@@ -212,7 +212,7 @@ export const projects = [
       "Javascript",
     ],
     category: "web app",
-    github: "https://github.com/anshita005/SpendWise",
+    github: "",
     webapp: "https://todoofmine.ccbp.tech/",
   },
 ];
