@@ -199,7 +199,7 @@ export const projects = [
     ],
     category: "web app",
     github: "https://github.com/degalaram/Portfolio",
-    webapp: "",
+    webapp: "https://677b8122a54f51a2fd31472f--portfoliooraam.netlify.app/",
   },
   {
     id: 9,
@@ -214,6 +214,19 @@ export const projects = [
     category: "web app",
     github: "https://github.com/degalaram/Prodigy_todo_list",
     webapp: "https://todoofmine.ccbp.tech/",
+    
+     id: 10,
+    title: "UI Interface",
+    description:"An UI Interface Which contains several sections including carousel-slides and Hover buttons which navigate certain page which shows both Responsive and mobile layout for small,lardge and medium devices",
+    image: "https://ik.imagekit.io/uko16m2rv/Screenshot%202025-01-06%20124558.png",
+    tags: [
+      "React Js",
+      "Material UI",
+    ],
+    category: "web app",
+    github: "",
+    webapp: "",
+  },
   },
 ];
 
