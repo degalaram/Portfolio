@@ -11,7 +11,7 @@ export const Bio = {
   gmail: "ramdegala9@gmail.com",
 
   resume:
-    "",
+    "https://drive.google.com/file/d/17gtayJ8r0w2XcIqiog9NuJfz_7tc8rf3/view?usp=sharing",
 
   linkedin: "https://www.linkedin.com/in/ramdegala/",
 
