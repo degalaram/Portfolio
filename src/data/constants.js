@@ -181,7 +181,7 @@ export const projects = [
     ],
     category: "web app",
     github: "https://github.com/degalaram/Prodigy-landing",
-    webapp: "https://landinggg.ccbp.tech/",
+    webapp: "https://degalaram.ccbp.tech/",
   },
   {
     id: 12,
@@ -201,6 +201,7 @@ export const projects = [
     github: "https://github.com/degalaram/Portfolio",
     webapp: "https://677b8122a54f51a2fd31472f--portfoliooraam.netlify.app/",
   },
+
   {
     id: 9,
     title: "Todo-List",
@@ -213,7 +214,26 @@ export const projects = [
     ],
     category: "web app",
     github: "https://github.com/degalaram/Prodigy_todo_list",
-    webapp: "https://todoofmine.ccbp.tech/",
+    webapp: "todoliisstt.ccbp.tech",
+  },
+    {
+    id: 14,
+    title: "Shopping Cart",
+    description:
+      "Developed a responsive e-commerce web app using React and Material UI featuring login authentication, dynamic product listing with filters, interactive cart management, and a multi-step checkout process with real-time validation and order confirmation.User: ram,Password:12345",
+    image:
+      "https://ik.imagekit.io/uko16m2rv/Screenshot%202025-04-08%20192717.png",
+    tags: [
+      "React Js",
+      "HTML5",
+      "Tailwind CSS",
+       "Bootstrap",
+      "Javascript",
+     
+    ],
+    category: "web app",
+    github: "https://github.com/degalaram/Shopping-icart",
+    webapp: "https://shopping-icart.vercel.app/",
   },
 ];
 
