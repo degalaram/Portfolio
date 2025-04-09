@@ -233,7 +233,7 @@ export const projects = [
     ],
     category: "web app",
     github: "https://github.com/degalaram/Shopping-icart",
-    webapp: "https://shopping-icart.vercel.app/",
+    webapp: "http://shopping-icart-fp1a.vercel.app",
   },
 ];
 
