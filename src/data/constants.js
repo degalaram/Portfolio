@@ -203,7 +203,7 @@ export const projects = [
   },
 
   {
-    id: 9,
+    id: 29,
     title: "Todo-List",
     description:"A task management solution,designed to make life easier which includes daily activities.Streamlined task management through a combination of HTML,CSS,and Bootstrap for an intuitive interface.Seamless CRUD operations through JavaScript event listeners and dynamic UI updates.",
     image: "https://ik.imagekit.io/uko16m2rv/Screenshot%202024-12-30%20100642.png",
