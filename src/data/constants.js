@@ -184,22 +184,42 @@ export const projects = [
     webapp: "https://degalaram.ccbp.tech/",
   },
   {
-    id: 12,
-    title: "My Portfolio",
+    id: 18,
+    title: "Job Portal",
     description:
-      "My Portfolio is a React.js application that serves as an online portfolio to showcase my work, skills, and achievements. It provides an overview of my background, displays my projects, and offers a way to contact me.",
+      "My JobPortal is a Full stack application that helps to check with Job Updates,courses and Projects for Freshers. it also had special feature know as Job Posting option to Post Job updates. ",
     image:
-      "https://ik.imagekit.io/uko16m2rv/Screenshot%202024-12-30%20100324.png",
+      "https://ik.imagekit.io/uko16m2rv/Job%20Portal%20-%20Google%20Chrome%2028-10-2025%2015_00_36%20(1).png?updatedAt=1761643887291",
     tags: [
       "React Js",
-      "HTML5",
+      "Node Js",
       "Tailwind CSS",
       "Javascript",
+      "PostgreSql",
+      "TypeScript",
      
     ],
     category: "web app",
-    github: "https://github.com/degalaram/Portfolio",
-    webapp: "https://677b8122a54f51a2fd31472f--portfoliooraam.netlify.app/",
+    github: "git@github.com:degalaram/projectnow.git",
+    webapp: "https://5426d318.projectnow.pages.dev/login",
+  },
+
+   {
+    id: 39,
+    title: "Car Parking Slot",
+    description:"A Car Parking slot Application is build by main use of booking advance slots to keep  carparking on New Places without time waste it helps to reduce traffic control.",
+    image: "https://ik.imagekit.io/uko16m2rv/parkslot-pro%20-%20Google%20Chrome%2028-10-2025%2015_09_41.png?updatedAt=1761644436097",
+    tags: [
+     "React Js",
+     "Node Js",
+      "Javascript",
+      "TailwindCSS",
+      "TypeScript",
+      
+    ],
+    category: "web app",
+    github: "git@github.com:degalaram/Car_Parking_Slot.git",
+    webapp: "https://car-parking-slot.vercel.app/user-authentication",
   },
 
   {
@@ -235,5 +255,27 @@ export const projects = [
     github: "https://github.com/degalaram/Shopping-icart",
     webapp: "http://shopping-icart-fp1a.vercel.app",
   },
+
+
+
+   {
+    id: 19,
+    title: "My Portfolio",
+    description:
+      "My Portfolio is a React.js application that serves as an online portfolio to showcase my work, skills, and achievements. It provides an overview of my background, displays my projects, and offers a way to contact me.",
+    image:
+      "https://ik.imagekit.io/uko16m2rv/Screenshot%202024-12-30%20100324.png",
+    tags: [
+      "React Js",
+      "HTML5",
+      "Tailwind CSS",
+      "Javascript",
+     
+    ],
+    category: "web app",
+    github: "https://github.com/degalaram/Portfolio",
+    webapp: "https://677b8122a54f51a2fd31472f--portfoliooraam.netlify.app/",
+  },
 ];
+
 
