@@ -184,7 +184,7 @@ export const projects = [
     webapp: "https://degalaram.ccbp.tech/",
   },
   {
-    id: 9,
+    id: 6,
     title: "Job Portal",
     description:
       "My JobPortal is a Full stack application that helps to check with Job Updates,courses and Projects for Freshers. it also had special feature know as Job Posting option to Post Job updates. ",
@@ -205,7 +205,7 @@ export const projects = [
   },
 
    {
-    id: 19,
+    id: 9,
     title: "Car Parking Slot",
     description:"A Car Parking slot Application is build by main use of booking advance slots to keep  carparking on New Places without time waste it helps to reduce traffic control.",
     image: "https://ik.imagekit.io/uko16m2rv/parkslot-pro%20-%20Google%20Chrome%2028-10-2025%2015_09_41.png?updatedAt=1761644436097",
@@ -277,6 +277,7 @@ export const projects = [
     webapp: "https://677b8122a54f51a2fd31472f--portfoliooraam.netlify.app/",
   },
 ];
+
 
 
 
