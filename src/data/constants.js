@@ -201,7 +201,7 @@ export const projects = [
     ],
     category: "web app",
     github: "https://github.com/degalaram/projectnow.git",
-    webapp: "https://5426d318.projectnow.pages.dev/login",
+    webapp: "https://projectnow.pages.dev/login",
   },
 
    {
@@ -277,6 +277,7 @@ export const projects = [
     webapp: "https://677b8122a54f51a2fd31472f--portfoliooraam.netlify.app/",
   },
 ];
+
 
 
 
