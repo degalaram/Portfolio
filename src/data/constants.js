@@ -260,11 +260,11 @@ export const projects = [
 
    {
     id: 19,
-    title: "My Portfolio",
+    title: "Chatbot Application",
     description:
-      "My Portfolio is a React.js application that serves as an online portfolio to showcase my work, skills, and achievements. It provides an overview of my background, displays my projects, and offers a way to contact me.",
+      "My Chat bot is an AI chat assistant that gives instant results which need to check in the browser.It's a co-friendly chat assistant.",
     image:
-      "https://ik.imagekit.io/uko16m2rv/Screenshot%202024-12-30%20100324.png",
+      "https://ik.imagekit.io/uko16m2rv/156Z_2305.w017.n001.54B.p12.54.jpg",
     tags: [
       "React Js",
       "HTML5",
@@ -273,10 +273,11 @@ export const projects = [
      
     ],
     category: "web app",
-    github: "https://github.com/degalaram/Portfolio",
-    webapp: "https://677b8122a54f51a2fd31472f--portfoliooraam.netlify.app/",
+    github: "https://github.com/degalaram/Chatbot.git",
+    webapp: "https://chatbot-87is.onrender.com/",
   },
 ];
+
 
 
 
