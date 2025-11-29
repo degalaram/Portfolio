@@ -181,7 +181,7 @@ export const projects = [
     ],
     category: "web app",
     github: "https://github.com/degalaram/Prodigy-landing",
-    webapp: "https://degalaram.ccbp.tech/",
+    webapp: "https://fooddorderr.ccbp.tech/",
   },
   {
     id: 6,
@@ -277,6 +277,7 @@ export const projects = [
     webapp: "https://677b8122a54f51a2fd31472f--portfoliooraam.netlify.app/",
   },
 ];
+
 
 
 
