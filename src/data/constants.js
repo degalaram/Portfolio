@@ -262,7 +262,7 @@ export const projects = [
     id: 19,
     title: "Chatbot Application",
     description:
-      "My Chat bot is an AI chat assistant that gives instant results which need to check in the browser.It's a co-friendly chat assistant.",
+      "An AI-powered, user-friendly chat assistant that delivers instant, accurate responses and allows quick verification in the browser. Designed to be co-friendly, efficient, and highly supportive for everyday tasks",
     image:
       "https://ik.imagekit.io/uko16m2rv/156Z_2305.w017.n001.54B.p12.54.jpg",
     tags: [
@@ -277,6 +277,7 @@ export const projects = [
     webapp: "https://chatbot-87is.onrender.com/",
   },
 ];
+
 
 
 
